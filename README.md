@@ -13,6 +13,11 @@ AI & Product Analytics Enthusiast | Vibe Coder<br><br>🚀 Building: Full-stack 
 - **Tech**: GSAP, Lenis, HTML5 Canvas, WebP Sequence.
 - **Workflow**: Antigravity + Nano Banana Pro + Veo 3.1.
 
+### 🧠 [Multimodal RAG Chat](https://github.com/nikhil0100kumar/embedding-rag)
+*A full-stack RAG application for chatting with PDFs, images, and videos using Pinecone and Gemini/Groq.*
+- **Tech**: Vanilla JS, Node.js, Pinecone, Gemini, Groq.
+- **Workflow**: Built & Updated using **MCP Server**.
+
 ### 🍳 [AI Recipes Backend](https://github.com/nikhil0100kumar/ai-recipes-backend)
 *Automated, intelligent backend for rapid recipe generation and data processing.*
 
